@@ -4,11 +4,11 @@ A static personal portfolio website showcasing selected projects and creative wo
 
 Live Demo: https://mikheil17.github.io/Personal-Portfolio-Website
 
-# What It Is
+## What It Is
 A responsive, front-end portfolio site built to present projects, visual work, and basic background information.
 
-# Tech
+## Tech
 HTML | CSS
 
-# Context
+## Context
 Early personal project focused on layout, responsive design, and visual presentation.
