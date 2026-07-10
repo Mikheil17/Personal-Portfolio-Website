@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A static personal portfolio website showcasing selected projects and creative work.
+A personal portfolio showcasing selected projects and creative work.
 
 Live Demo: https://mikheil17.github.io/Personal-Portfolio-Website
 
